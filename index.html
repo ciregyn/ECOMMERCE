@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <title>YouTech</title>
+</head>
+
+<body>
+
+    <header>
+
+        <div class="logo">
+            <i class="fa-solid fa-laptop"></i>
+            <h1>YouTech</h1>
+        </div>
+
+        <div class="search-container">
+
+            <input type="text" placeholder="Buscar produtos..." class="search-input">
+            <i class="fa-solid fa-magnifying-glass"></i>
+
+        </div>
+
+    </header>
+
+    <div class="categories-container">
+
+        <nav class="categories-bar">
+            <a href="#show">
+                <button class="category-btn active" data-category="all">
+                    <i class="fa-solid fa-border-all"></i>
+                    Todos
+                </button>
+            </a>
+
+            <a href="#show">
+                <button class="category-btn" data-category="smartphones">
+                    <i class="fa-solid fa-mobile-screen-button"></i>
+                    Smartphones
+                </button>
+            </a>
+
+            <a href="#show">
+                <button class="category-btn" data-category="laptops">
+                    <i class="fa-solid fa-laptop"></i>
+                    Notebooks
+                </button>
+            </a>
+
+            <a href="#show">
+                <button class="category-btn" data-category="headphones">
+                    <i class="fa-solid fa-headphones"></i>
+                    Fones
+                </button>
+            </a>
+
+            <a href="#show">
+                <button class="category-btn" data-category="accessories">
+                    <i class="fa-solid fa-computer-mouse"></i>
+                    Acessórios
+                </button>
+            </a>
+
+            <a href="#show">
+                <button class="category-btn" data-category="smartwatch">
+                    <i class="fa-regular fa-clock"></i>
+                    Smartwatches
+                </button>
+            </a>
+
+        </nav>
+
+    </div>
+
+    <!-- HERO -->
+    <section class="hero-section">
+
+        <h2> Black Friday Antecipado!</h2>
+        <p class="hero-p">Ate 50% de desconto em produtos selecionados</p>
+
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+        <div class="swiper">
+            <div class="swiper-wrapper" id="product-slider">
+               
+            </div>
+
+            <!-- Botões de navegação -->
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+
+            <!-- Paginação -->
+            <div class="swiper-pagination"></div>
+        </div>
+
+        <!-- Script do Swiper -->
+        <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+    </section>
+
+    <!-- PRODUTOS -->
+    <main id="show" class="products">
+        <div class="products-container">
+
+        </div>
+
+    </main>
+    <!-- Botão de volta ao Topo -->
+    <button id="btn-topo" title="Voltar ao topo">⬆</button>
+
+    
+    <footer>
+        <p class="footer-p">2026 - YouTech Todos os direitos resevados.</p>
+    </footer>
+
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="script.js">
+
+</script>
+
+</html>
