@@ -19,8 +19,8 @@ Este é um projeto de **e-commerce** desenvolvido com **HTML, CSS e JavaScript**
 
 ## 📷 Capturas de Tela
 
-*(Adicione imagens reais do seu projeto aqui)*  
-![Tela Principal](link-da-imagem1.png)
+  
+![Tela Principal](https://github.com/ciregyn/ECOMMERCE/blob/main/img/Anota%C3%A7%C3%A3o%202025-08-11%20204137.png?raw=true)
 ![Versão Mobile](link-da-imagem2.png)
 
 ## 📂 Estrutura de Pastas
