@@ -34,7 +34,7 @@ Ficou interessado em meu trabalho? Fique à vontade para me enviar uma mensagem:
 
 - 📧 **Email:** goncalvesandradeeric@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/seu-usuario](www.linkedin.com/in/eric-goncalves-andrade)
-- 🌐 **Site:** [resonant-otter-012a05.netlify.app](https://ciregyn.github.io/Portifolio/)
+- 🌐 **Site:** [resonant-otter-012a05.netlify.app](https://ciregyn.github.io/ECOMMERCE/)
 
 
 
