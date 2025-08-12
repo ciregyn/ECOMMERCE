@@ -20,10 +20,14 @@ Este é um projeto de **e-commerce** desenvolvido com **HTML, CSS e JavaScript**
 ## 📷 Capturas de Tela
 
   
-![Tela Principal](https://github.com/ciregyn/ECOMMERCE/blob/main/img/Anota%C3%A7%C3%A3o%202025-08-11%20204137.png?raw=true)
-![Versão Mobile](link-da-imagem2.png)
+![Tela Principal](https://github.com/ciregyn/ECOMMERCE/blob/main/img/Design%20sem%20nome.png?raw=true)
 
-## 📂 Estrutura de Pastas
+
+✨ Melhorias Futuras
+🛍️ Sistema de carrinho de compras.
+💳 Integração com métodos de pagamento.
+🗄️ Banco de dados para produtos.
+
 
 
 
